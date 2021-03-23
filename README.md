@@ -26,6 +26,7 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 - [Validator.js](https://www.npmjs.com/package/validator) - For validation of JSON data
 - [Mongoose Unique Validator](https://www.npmjs.com/package/mongoose-unique-validator) - Plugin for better error handling of unique fields within Mongoose schema
 - [Dotenv](https://www.npmjs.com/package/dotenv) - To load environment variables from a .env file
+- [repo](https://github.com/VAMSI08/myList-backend)
 
 ## Features
 
