@@ -4,7 +4,7 @@ A MERN stack app to keep track of online stuff, which you may want to view later
 
 ## Demo
 
-[Deployed on Netlify (front-end) & Heroku (back-end)]
+[Deployed on Netlify (front-end) & Heroku (back-end)](https://mylistview.netlify.app)
 
 ## Built using
 
